@@ -11,3 +11,8 @@ async function fetchJson2() {
 }
 
 fetchJson2();
+
+// 1. design of survey lists
+// 2. delete surveys
+// 3. sort the surveys
+// 4. draft mode
