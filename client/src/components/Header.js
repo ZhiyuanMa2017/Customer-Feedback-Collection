@@ -27,7 +27,7 @@ class Header extends Component {
                         to={this.props.auth ? "/surveys" : "/"}
                         className={"left brand-logo"}
                     >
-                        Node with React
+                        Customer Feedback Collection
                     </Link>
                     <ul className={"right"}>
                         {this.renderContent()}
